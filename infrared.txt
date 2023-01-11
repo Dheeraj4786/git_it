@@ -1,1 +1,1 @@
-infrared sensor is added as a functionality
+infrared is added as a functionality in infrared_b branch
